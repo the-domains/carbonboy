@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[carbonboy]]></title>
         <description><![CDATA[carbonboy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/carbonboy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 21:58:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 21:59:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/carbonboy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[3rd Attempt at Recreating the Sheboygan Hard Roll]]></title>
-            <description><![CDATA[<article><h1>3rd Attempt at Recreating the Sheboygan Hard Roll</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/58a65b41bd204990c4c61643ce2090af/passthrough.jpg?height=500&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F01afede98b4c5bc6ce46b341e5ba09c742d08535.jpg&width=750"></article>]]></description>
-            <link>undefinedfor-this-attempt-i-upgraded-to-a-real-bakers-half-sheet-and/index.html</link>
+            <description><![CDATA[<article><h1>3rd Attempt at Recreating the Sheboygan Hard Roll</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73e72c0388a9ec842c55708698bce8ab4224c8a2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/carbonboy/for-this-attempt-i-upgraded-to-a-real-bakers-half-sheet-and/index.html</link>
             <guid isPermaLink="false">5b2557ed-d0dd-4ba6-8033-1a9807320165</guid>
-            <pubDate>Sun, 28 Feb 2016 21:57:46 GMT</pubDate>
+            <pubDate>Sun, 28 Feb 2016 21:58:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
