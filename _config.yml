@@ -1,0 +1,28 @@
+name: carbonboy
+favicon: null
+layout_spectrum: 0.599805801641196
+typography_spectrum: 0.04690157575532794
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9929388836026192
+  lightness: 0.9176315206568688
+  saturation: 0.9068718696944416
+  rhythmicContrast: 0.3150580108631402
+purpose: []
